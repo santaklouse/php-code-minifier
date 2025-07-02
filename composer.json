@@ -1,5 +1,5 @@
 {
-    "name": "santaklouse/php-code-minifier",
+    "name": "php-code-minifier/php-code-minifier",
     "description": "PHP Code Minifier is a tool that allows you to minify your PHP code.",
     "type": "library",
     "license": ["MIT"],
